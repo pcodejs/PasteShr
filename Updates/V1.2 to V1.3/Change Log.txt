@@ -1,0 +1,12 @@
+- Password protected pastes
+- Encrypted pastes
+- Improved UI for small devices.
+- Removed 'paste' from paste url.
+- Added settings to enable/disable features (share, copy link, raw, download, embed, report, print) in admin
+- My Recent Pastes box for logged in users
+- Added Image logo and settings
+- Added Favicon and settings
+- Added open graph tags
+- Improved settings in admin
+- Fixed user create bug
+- Changed language name collation to utf8

@@ -1,0 +1,7 @@
+- Allowed UTF-8 characters in various fields
+- Added autofocus on password box for protected paste & unlock on hit enter 
+- Fixed login validation 
+- Added more fields to User create/edit in admin panel 
+- Disable pastes of banned users 
+- Paste Print feature improved
+- Paste Password feature improved

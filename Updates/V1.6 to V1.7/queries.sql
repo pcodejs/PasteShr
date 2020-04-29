@@ -1,0 +1,3 @@
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'header_code', NULL, CURRENT_TIMESTAMP, NULL), (NULL, 'footer_code', NULL, CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'maintenance_mode', '0', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'maintenance_text', 'We\'ll be back soon.', CURRENT_TIMESTAMP, NULL);

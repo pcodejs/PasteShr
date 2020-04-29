@@ -1,0 +1,1 @@
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'syntax_highlighting_style', 'okadia', CURRENT_TIMESTAMP, NULL);

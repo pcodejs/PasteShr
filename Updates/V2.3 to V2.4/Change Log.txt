@@ -1,0 +1,13 @@
+- Added user dashboard 
+- Pastes backup feature for users
+- Admin setting to set default syntax 
+- Feature to toggle string validation strict/moderate 
+- Option to set default paste options for user 
+- Add Feature to disable line numbers 
+- Add Features to disable Trending, Archive, Search 
+- Increase ad box limit 
+- Improve admin panel settings page layout 
+- Break word feature for title & paste content
+- Improved admin panel UI 
+- Added more words to translations
+- Fixed some bugs

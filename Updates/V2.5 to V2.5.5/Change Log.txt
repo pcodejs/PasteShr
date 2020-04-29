@@ -1,0 +1,5 @@
+- Fixed paste editor selection for codemirror in admin panel settings
+- Fixed syntax highterlight selection codemirror in admin panel settings
+- Fixed embed feature
+- Fixed pagination links overflow when many links for small devices
+- Fixed some syntaxes selection 

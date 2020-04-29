@@ -1,0 +1,10 @@
+- Fixed clone feature 
+- Added Ad block detection feature
+- Added CodeMirror editor & syntax highlighter 
+- Added Browse for files load 
+- Added remove site image option 
+- Added page delete feature 
+- Added scrollbar for editor with max height 
+- Added translatable content pages
+- Fixed translations
+- Fixed some other bugs

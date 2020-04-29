@@ -1,0 +1,12 @@
+- Added toggle for navbar default/fixed top
+- Added some missing words in translation
+- Fixed Syntax highlighter settings in admin panel 
+- Paste content not lost when validation error 
+- Hide social links when left empty 
+- Included 404, 403 pages in site theme 
+- Redirect to homepage when registration is closed 
+- Added toggle settings to turn on/off user paste
+- Added refresh button for custom captcha 
+- Redirect intended on auth routes
+- Footer to bottom
+- Fixed some other bugs

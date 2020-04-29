@@ -1,0 +1,12 @@
+ALTER TABLE `syntax` CHANGE `name` `name` VARCHAR(30) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL, CHANGE `slug` `slug` VARCHAR(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL;
+ALTER TABLE `pastes` CHANGE `syntax` `syntax` VARCHAR(40) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'markup';
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'site_layout', '1', CURRENT_TIMESTAMP, NULL), (NULL, 'paste_page_layout', '1', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'trending_pastes_limit', '15', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'captcha_for_verified_users', '0', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'qr_code_share', '1', CURRENT_TIMESTAMP, NULL);
+ALTER TABLE `users` ADD `about` VARCHAR(255) NULL DEFAULT NULL AFTER `avatar`, ADD `fb` VARCHAR(255) NULL DEFAULT NULL AFTER `about`, ADD `tw` VARCHAR(255) NULL DEFAULT NULL AFTER `fb`, ADD `gp` VARCHAR(255) NULL DEFAULT NULL AFTER `tw`;
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'pc', NULL, CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'pc_verified', '0', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'paste_time_restrict_auth', '60', CURRENT_TIMESTAMP, NULL), (NULL, 'paste_time_restrict_unauth', '600', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'site_skin', 'default', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'auto_approve_user', '0', CURRENT_TIMESTAMP, NULL);

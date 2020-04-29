@@ -1,0 +1,3 @@
+- Paste share link with copy button on paste page share modal.
+- A toggle to enable/disable registration in admin settings.
+- A toggle to enable/disable public paste in admin settings.

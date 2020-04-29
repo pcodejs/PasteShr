@@ -1,0 +1,3 @@
+- Fixed 'Terms' page Link on register page  
+- Removed extra captcha from contact, user contact page & paste clone page 
+- Added Social Login setup guide 

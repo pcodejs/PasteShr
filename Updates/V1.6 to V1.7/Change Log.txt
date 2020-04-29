@@ -1,0 +1,9 @@
+- Added Maintenance Mode 
+- Fixed paste delete redirection for admin on user side
+- Added extra fields in SEO section 
+- Fixed site logo and favicon links for subdir version
+- Fixed user profile contact form bug
+- Fixed auto approve user
+- Fixed print method in pastecontroller
+- Fixed trending section to hide private and unlisted pastes 
+- Added more words in translation

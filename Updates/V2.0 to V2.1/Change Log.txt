@@ -1,0 +1,3 @@
+- Ace Editor & Syntax Highlight
+- Socialite (Facebook/Twitter/Google Social login) 
+- Fixed QR Code API

@@ -1,0 +1,8 @@
+- Syntax Highlighting Skins (default, dark, coy, okadia, funky, solarized light, tomorrow night, twilight) 
+- Added resend activation link  
+- Removed fade delay 
+- Changed & Improved skin 
+- Fixed user create bug from admin 
+- Fixed language translation bug 
+- Added views count on paste lists
+- Some other improvements

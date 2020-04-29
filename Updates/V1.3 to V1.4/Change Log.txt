@@ -1,0 +1,9 @@
+- Self destroy paste
+- Fixed paste status on paste edit
+- Fixed encrypt/decrypt for raw data
+- Added lock & clock icon in paste list for protected & timed paste
+- Added url to syntax name in list
+- Pagination for logged in users
+- Improved mail system
+- Disable captcha if site key and secret key empty
+- Fixed Encrypt/Decrypt paste edit

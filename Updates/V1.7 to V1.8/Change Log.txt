@@ -1,0 +1,4 @@
+- Added Custom captcha 
+- Added Custom comments 
+- Changed Verification message when auto approval on +
+- Fixed Syntax create on admin panel

@@ -1,0 +1,6 @@
+- Fixed account verification flow.
+- Added Mail settings in admin panel.
+- Fixed paste max size bug.
+- Added autofocus on content field.
+- Added language change menu in header
+- Added Copy link button on paste page

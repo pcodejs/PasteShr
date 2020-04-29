@@ -1,0 +1,6 @@
+- Improved Navbar
+- Added option to change paste storage as a file to reduce database size
+- Fixed user activation from admin panel
+- Fix login when banned 
+- Security updates
+- Other Bug Fixes

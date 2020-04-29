@@ -1,0 +1,8 @@
+- Improved user registration
+- Added missing translation words
+- Changed views count to K,M,B 
+- Increased length of site title
+- Added toggle to on/off paste title required
+- Added toggle on/off public download 
+- Added feature to set background color or image 
+- Fixed some bugs

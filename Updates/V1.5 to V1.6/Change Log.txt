@@ -1,0 +1,9 @@
+- User profile page 
+- Trending pastes page (day, week, month, year) 
+- QR Code for share 
+- Site & Paste page layouts 
+- No Captcha for logged in users feature
+- Added 5 new Color skins 
+- Added auto approve user feature 
+- Added Time restriction feature to restrict between paste creation
+- Bug Fixes

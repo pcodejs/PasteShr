@@ -1,0 +1,3 @@
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'navbar', 'default', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'user_paste', '1', CURRENT_TIMESTAMP, NULL);
+INSERT INTO `settings` (`id`, `key`, `value`, `created_at`, `updated_at`) VALUES (NULL, 'facebook_app_id', NULL, CURRENT_TIMESTAMP, NULL);
